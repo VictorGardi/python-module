@@ -20,4 +20,4 @@ jobs:
         with:
           python-version: "3.8.10"
 
-      - uses: a392673/pre-commit-action@v3.0.0
+      - uses: VictorGardi/pre-commit-action@v1.0.0
